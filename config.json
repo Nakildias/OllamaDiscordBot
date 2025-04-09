@@ -1,0 +1,8 @@
+{
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "api_url": "http://OLLAMA_LOCAL_IP:11434/api/chat",
+  "prefix": "!",
+  "ollama_model": "llama3.2:3b",
+  "hosted_by": "YOUR_DISCORD_HANDLE_HERE",
+  "version": "1.0"
+}
